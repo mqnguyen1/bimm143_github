@@ -8,7 +8,7 @@ My classwork from BIMM143 at UC San Diego Winter 2023
 - Class 7: 
 - Class 8: [Report](https://github.com/mqnguyen1/bimm143_github/blob/main/Lab08/Lab08_MiniProject.md)
 - Class 9: [Report](https://github.com/mqnguyen1/bimm143_github/blob/main/Lab09/Lab09.md)
-- Class 10: 
+- Class 10: [Report](https://github.com/mqnguyen1/bimm143_github/blob/main/Lab10/Lab10%20html.Rmd)
 - Class 11: 
 - Class 12: 
 - Class 13: 
