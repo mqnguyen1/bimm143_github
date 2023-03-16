@@ -6,7 +6,7 @@ My classwork from BIMM143 at UC San Diego Winter 2023
 - Class 5: Data visualization with ggplot2
 - Class 6: RNA-seq
 - Class 7: 
-- Class 8: 
+- Class 8: [Report](https://github.com/mqnguyen1/bimm143_github/blob/main/Lab08/Lab08_MiniProject.md)
 - Class 9: 
 - Class 10: 
 - Class 11: 
