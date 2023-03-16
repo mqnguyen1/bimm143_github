@@ -1,0 +1,2 @@
+ssh -i "mqnguyen_bimm143.pem" ubuntu@ec2-35-90-201-32.us-west-2.compute.amazonaws.com
+
